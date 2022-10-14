@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6463c7a6-9c2a-4ee5-bf54-94b7372ccbdf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leodb/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leodb/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leodb/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leodb/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leodb/mog/action.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leodb/mog/action.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leodb/mog/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leodb/mog/init.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leofile/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../leofile/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leofile/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../leofile/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leolog/logs.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leolog/logs.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leoutil/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leoutil/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leowebgin/engine.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leowebgin/engine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leowebgin/file.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leowebgin/file.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leowebgin/socket.go" beforeDir="false" afterPath="$PROJECT_DIR$/../leowebgin/socket.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -100,46 +112,54 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="879" y="299" key="FileChooserDialogImpl" timestamp="1642055567163">
+    <state x="402" y="100" key="CommitChangelistDialog2" timestamp="1642055827590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="879" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642055567163" />
-    <state width="1522" height="282" key="GridCell.Tab.0.bottom" timestamp="1642055809286">
+    <state x="402" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1642055827590" />
+    <state x="879" y="299" key="FileChooserDialogImpl" timestamp="1642056006221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642055809286" />
-    <state width="1522" height="282" key="GridCell.Tab.0.center" timestamp="1642055809286">
+    <state x="879" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642056006221" />
+    <state width="1522" height="281" key="GridCell.Tab.0.bottom" timestamp="1642056007710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642055809286" />
-    <state width="1522" height="282" key="GridCell.Tab.0.left" timestamp="1642055809286">
+    <state width="1522" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007710" />
+    <state width="1522" height="281" key="GridCell.Tab.0.center" timestamp="1642056007710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642055809286" />
-    <state width="1522" height="282" key="GridCell.Tab.0.right" timestamp="1642055809286">
+    <state width="1522" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007710" />
+    <state width="1522" height="281" key="GridCell.Tab.0.left" timestamp="1642056007710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642055809286" />
-    <state width="1522" height="282" key="GridCell.Tab.1.bottom" timestamp="1642055791913">
+    <state width="1522" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007710" />
+    <state width="1522" height="281" key="GridCell.Tab.0.right" timestamp="1642056007710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642055791913" />
-    <state width="1522" height="282" key="GridCell.Tab.1.center" timestamp="1642055791913">
+    <state width="1522" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007710" />
+    <state width="1522" height="281" key="GridCell.Tab.1.bottom" timestamp="1642056007712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642055791913" />
-    <state width="1522" height="282" key="GridCell.Tab.1.left" timestamp="1642055791913">
+    <state width="1522" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007712" />
+    <state width="1522" height="281" key="GridCell.Tab.1.center" timestamp="1642056007710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642055791913" />
-    <state width="1522" height="282" key="GridCell.Tab.1.right" timestamp="1642055791913">
+    <state width="1522" height="281" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007710" />
+    <state width="1522" height="281" key="GridCell.Tab.1.left" timestamp="1642056007710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1522" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642055791913" />
+    <state width="1522" height="281" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007710" />
+    <state width="1522" height="281" key="GridCell.Tab.1.right" timestamp="1642056007711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1522" height="281" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642056007711" />
     <state x="600" y="186" key="SettingsEditor" timestamp="1642055590480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
